@@ -9,8 +9,9 @@ I ran this program using an Nvidia Tesla V100.
 
 Mega Multiplies graph:
 
-<img width="976" alt="mm_array_size" src="https://github.com/lucasrouchy/SIMD_Performance_Testing/assets/mm_array_size.png">
+<img width="976" alt="mm_array_size" src="https://github.com/lucasrouchy/SIMD_Performance_Testing/assets/55973521/ac3a2a24-7fda-491c-b622-68cefb8b0f81">
+
 
 Speedup graph:
 
-<img width="976" alt="mm_array_size" src="https://github.com/lucasrouchy/SIMD_Performance_Testing/assets/arraysize_speedup.png">
+<img width="926" alt="arraysize_speedup" src="https://github.com/lucasrouchy/SIMD_Performance_Testing/assets/55973521/c56daa3d-1fc3-490c-b269-df0f01099f3e">
